@@ -24,7 +24,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 #ifndef UBLOX_h
 #define UBLOX_h
 
-#include "Arduino.h"				
+#include "Particle.h"			
 
 class UBLOX{
   public:
